@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">(Nguyễn Hữu Lộc)</h1>
 <div align="center">
-  ![Static Badge](https://img.shields.io/badge/.Net%20Dev-purple)
+<img alt="Static Badge" src="https://img.shields.io/badge/.Net%20Dev-purple">
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>

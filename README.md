@@ -60,6 +60,7 @@
   </a>
 </div>
 
+
 ###
 
 <br clear="both">
@@ -67,3 +68,8 @@
 <img src="https://raw.githubusercontent.com/wholock2210/wholock2210/output/snake.svg" alt="Snake animation" />
 
 ###
+
+# 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

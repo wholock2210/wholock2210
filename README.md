@@ -49,7 +49,7 @@
   <a href="mailto:locbn98@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="www.linkedin.com/in/lộc-nguyễn-ab98542a3">
+  <a href="http://www.linkedin.com/in/lộc-nguyễn-ab98542a3">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://marketplace.visualstudio.com/manage/publishers/wholock">

@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.wholock.is-a.dev/">
+    <img src="Source/logo.png" alt="Wholock Logo" height="150" />
+  </a>
+</p>
+
 <h2 align="left">
   Hi 👋! My name is 
   <span style="color:#4CAF50; font-weight:bold;">Wholock</span> 
@@ -62,6 +68,9 @@
   </a>
   <a href="https://www.facebook.com/profile.php?id=100093540090214">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.wholock.is-a.dev/">
+    <img src="Source/favicon.svg" height="35" alt="website"  />
   </a>
 </div>
 
